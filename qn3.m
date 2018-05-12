@@ -1,3 +1,4 @@
+close all; clear all; clc;
 A = randi([0:1],[5000,1]);
 RunMax = 0;
 j = 1;
