@@ -1,4 +1,4 @@
-clc;clear all;
+clc;clear all;close all;
 i=1;
 for i = 1 : 20
 A = randi([0:1],[50,1]);
